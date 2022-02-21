@@ -1,4 +1,4 @@
-module github.com/iloveswift/go-jsonrpc
+module github.com/accountYwz/go-jsonrpc
 
 go 1.15
 
